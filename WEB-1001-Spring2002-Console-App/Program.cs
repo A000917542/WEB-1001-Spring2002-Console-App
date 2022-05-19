@@ -27,6 +27,7 @@ namespace WEB_1001_Spring2002_Console_App
         static void Goodbye()
         {
             Console.WriteLine(x);
+            Console.WriteLine("Goodbye!");
         }
     }
 }
